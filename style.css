@@ -1,0 +1,20 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 30px;
+}
+form input, button {
+  display: block;
+  margin: 15px 0;
+  padding: 10px;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+td {
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+img {
+  border-radius: 5px;
+}
